@@ -1,5 +1,5 @@
 tipo_cliente,canal_venda,categoria_produto,dia_semana,promocao,tempo_entrega_previsto,num_produtos,x,y
-empresa,revendedor,alimentos,sexta,não,4,9,456,-320
+NA,NA,NA,NA,NA,NA,0,456,-320
 consumidor,loja_fisica,eletrônico,quarta,não,4,2,228,0
 consumidor,online,escritório,sexta,sim,4,23,912,0
 empresa,loja_fisica,alimentos,terça,sim,3,24,0,-80

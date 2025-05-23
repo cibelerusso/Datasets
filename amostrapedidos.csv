@@ -1,0 +1,18 @@
+,tipo_cliente,canal_venda,categoria_produto,dia_semana,promocao,tempo_entrega_previsto,num_produtos,localizacao,x,x,y,y
+0,empresa,revendedor,alimentos,sexta,não,4,9,"(228, -480)",456,228,-320,-480
+1,consumidor,loja_fisica,eletrônico,quarta,não,4,2,"(342, -560)",228,342,0,-560
+2,consumidor,online,escritório,sexta,sim,4,23,"(570, -160)",912,570,0,-160
+3,empresa,loja_fisica,alimentos,terça,sim,3,24,"(456, -320)",0,456,-80,-320
+4,consumidor,loja_fisica,eletrônico,terça,sim,1,1,"(684, -240)",114,684,-80,-240
+5,empresa,online,vestuário,sexta,sim,4,8,"(456, -320)",570,456,-160,-320
+6,empresa,loja_fisica,vestuário,sexta,sim,1,14,"(570, -400)",798,570,-160,-400
+7,empresa,loja_fisica,eletrônico,quarta,não,3,2,"(228, 0)",342,228,-240,0
+8,consumidor,online,vestuário,sexta,sim,3,7,"(798, -160)",684,798,-240,-160
+9,consumidor,loja_fisica,vestuário,segunda,sim,4,30,"(0, -640)",570,0,-400,-640
+10,consumidor,online,eletrônico,quarta,sim,4,10,"(570, -400)",912,570,-400,-400
+11,consumidor,online,vestuário,segunda,sim,3,1,"(342, -240)",114,342,-480,-240
+12,empresa,revendedor,escritório,quinta,sim,3,5,"(684, -560)",228,684,-480,-560
+13,empresa,revendedor,eletrônico,segunda,sim,1,16,"(228, 0)",342,228,-560,0
+14,consumidor,online,vestuário,sexta,não,4,5,"(342, -240)",684,342,-560,-240
+15,consumidor,loja_fisica,alimentos,quinta,sim,5,5,"(114, -80)",0,114,-640,-80
+16,empresa,online,escritório,quarta,não,1,23,"(798, -160)",798,798,-640,-160
